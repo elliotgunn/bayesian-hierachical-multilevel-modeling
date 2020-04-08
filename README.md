@@ -1,5 +1,5 @@
 # bayesian-hierachical-multilevel-modeling-
-Learning about Bayesian methods for hierarchical or multilevel modeling
+A self-directed curriculum to learn Bayesian methods for hierarchical or multilevel modeling
 
 
 
