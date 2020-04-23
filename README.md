@@ -15,3 +15,5 @@ Thomas Wiecki's tutorial blog posts (more advanced)
 - [The Best Of Both Worlds: Hierarchical Linear Regression in PyMC3](https://twiecki.github.io/blog/2014/03/17/bayesian-glms-3/)
 
 Rachael Meager's paper "_[Understanding the Average Impact of Microcredit Expansions: A Bayesian Hierarchical Analysis of Seven Randomized Experiments](https://pdfs.semanticscholar.org/add4/5613b77be86a01d51555e4940462ef633942.pdf)_"
+
+[Bayesian Data Analysis course material](https://github.com/avehtari/BDA_course_Aalto)
